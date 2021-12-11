@@ -6,10 +6,10 @@ const styles = {
   card: {
       color: "white",
       fontSize: "1.3rem",
-      textDecoration: none,
+      textDecoration: "none",
       margin: "5px",
       lineHeight: 3,
-      position: absolute,
+      position: "absolute",
       right: "5px",
     
 },
